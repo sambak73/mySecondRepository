@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is new line from master brnach
+=======
+File2.txt
+>>>>>>> newfeature
